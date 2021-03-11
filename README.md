@@ -19,8 +19,8 @@ You are given a pre-trained, sklearn model that has been trained to predict hous
 
 ## Instructions
 
-<TODO:  
-* Architectural Diagram (Shows how key parts of the system work)>
+
+![Project diagram](./doc/images/project-diagram.PNG)
 
 <TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
 
