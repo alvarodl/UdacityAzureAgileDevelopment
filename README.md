@@ -102,6 +102,10 @@ To perform a prediction the script **make_predict_azure_app.sh** can be executed
 
 ![Azure App Service Log](./doc/images/azure-cloud-shell-prediction.PNG)
 
+### Load test
+
+![Locust Load Test](./doc/images/locust-load-test.PNG)
+
 ### Streamed Log Files
 
 ![Azure Cloud Shell Prediction](./doc/images/azure-app-service-log.PNG)
@@ -109,7 +113,6 @@ To perform a prediction the script **make_predict_azure_app.sh** can be executed
 ## Enhancements
 
 - Create a frontend to the API.
-- Add Load Testing.
 - Add Code Coverage and Quality Gates steps to CI.
 
 ## Demo
